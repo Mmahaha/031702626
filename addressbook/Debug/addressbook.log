@@ -1,0 +1,4 @@
+﻿  addressbook.cpp
+c:\users\15848\source\repos\addressbook\addressbook\addressbook.cpp(64): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\15848\source\repos\addressbook\addressbook\addressbook.cpp(23): warning C4715: “find_number”: 不是所有的控件路径都返回值
+  addressbook.vcxproj -> C:\Users\15848\source\repos\addressbook\Debug\addressbook.exe
